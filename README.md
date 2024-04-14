@@ -30,7 +30,7 @@ O resultado obtido nessa verificação é retornado na tela.<br>
   >   Tela com um ou mais campos não preenchidos
   
   <br><br>
-  <img src='https://github.com/Samuel-045/Cadastro-java/assets/95144250/cf5f73c7-0972-47b5-90c4-7e30630fa5ce' alt='Tela com um ou mais campos preenchidos incorretamente' title='Tela com um ou mais campos preenchidos incorretamente' width='750px'>
+  <img src='https://github.com/Samuel-045/Cadastro-java/assets/95144250/6eea4ba9-f082-4ed3-9a65-3b4b74f93a60' alt='Tela com um ou mais campos preenchidos incorretamente' title='Tela com um ou mais campos preenchidos incorretamente' width='750px'>
 
 
   >  Tela com um ou mais campos preenchidos incorretamente
